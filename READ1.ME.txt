@@ -1,0 +1,4 @@
+Hello everyone, here is your friend Ravishankar Yadav.
+This is my task for Graduate Rotational Internship Program @ #TheSparksFoundation for Computer Vision and IOT titled,
+"Color Identification In Images".
+I made it on Python language using OpenCV and Pandas modules. 
